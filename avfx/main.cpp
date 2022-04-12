@@ -30,6 +30,7 @@ int main(int argc, const char * argv[]) {
 	}
 	
 	{
+//	http://home.ustc.edu.cn/~liucan19/tech/string_and_char_ptr/
 //		const char a = 'a';
 		const char *a = "fadfa";
 
